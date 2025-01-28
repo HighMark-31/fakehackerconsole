@@ -1,0 +1,14 @@
+C:\Users\highm\source\repos\FakeHackerConsole\bin\Release\net8.0-windows\FakeHackerConsole.exe
+C:\Users\highm\source\repos\FakeHackerConsole\bin\Release\net8.0-windows\FakeHackerConsole.deps.json
+C:\Users\highm\source\repos\FakeHackerConsole\bin\Release\net8.0-windows\FakeHackerConsole.runtimeconfig.json
+C:\Users\highm\source\repos\FakeHackerConsole\bin\Release\net8.0-windows\FakeHackerConsole.dll
+C:\Users\highm\source\repos\FakeHackerConsole\bin\Release\net8.0-windows\FakeHackerConsole.pdb
+C:\Users\highm\source\repos\FakeHackerConsole\obj\Release\net8.0-windows\FakeHackerConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\highm\source\repos\FakeHackerConsole\obj\Release\net8.0-windows\FakeHackerConsole.AssemblyInfoInputs.cache
+C:\Users\highm\source\repos\FakeHackerConsole\obj\Release\net8.0-windows\FakeHackerConsole.AssemblyInfo.cs
+C:\Users\highm\source\repos\FakeHackerConsole\obj\Release\net8.0-windows\FakeHackerConsole.csproj.CoreCompileInputs.cache
+C:\Users\highm\source\repos\FakeHackerConsole\obj\Release\net8.0-windows\FakeHackerConsole.dll
+C:\Users\highm\source\repos\FakeHackerConsole\obj\Release\net8.0-windows\refint\FakeHackerConsole.dll
+C:\Users\highm\source\repos\FakeHackerConsole\obj\Release\net8.0-windows\FakeHackerConsole.pdb
+C:\Users\highm\source\repos\FakeHackerConsole\obj\Release\net8.0-windows\FakeHackerConsole.genruntimeconfig.cache
+C:\Users\highm\source\repos\FakeHackerConsole\obj\Release\net8.0-windows\ref\FakeHackerConsole.dll

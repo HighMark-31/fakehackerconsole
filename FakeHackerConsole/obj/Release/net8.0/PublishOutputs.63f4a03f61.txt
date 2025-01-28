@@ -1,0 +1,5 @@
+C:\Users\highm\source\repos\FakeHackerConsole\bin\Release\net8.0\publish\FakeHackerConsole.exe
+C:\Users\highm\source\repos\FakeHackerConsole\bin\Release\net8.0\publish\FakeHackerConsole.dll
+C:\Users\highm\source\repos\FakeHackerConsole\bin\Release\net8.0\publish\FakeHackerConsole.deps.json
+C:\Users\highm\source\repos\FakeHackerConsole\bin\Release\net8.0\publish\FakeHackerConsole.runtimeconfig.json
+C:\Users\highm\source\repos\FakeHackerConsole\bin\Release\net8.0\publish\FakeHackerConsole.pdb
