@@ -1,6 +1,6 @@
 # FakeHackerConsole
 
-![FakeHackerConsole](https://fakehackerconsole.chickenkiller.com/logo.png)
+![FakeHackerConsole](http://fakehackerconsole.chickenkiller.com/img/screenshot2.png)
 
 **FakeHackerConsole** is a project created by **[HighMark (Marco)](https://highmark.it/)** that simulates various cybersecurity and hacking-related operations in a controlled and educational environment. This software is designed purely for **educational and entertainment purposes**.
 
