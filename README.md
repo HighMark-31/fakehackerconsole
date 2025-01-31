@@ -55,7 +55,7 @@ By using this software, you agree to the following conditions:
 - 🔗 **GitHub Repository**: [FakeHackerConsole on GitHub](https://github.com/HighMark-31/fakehackerconsole)
 - 🛒 **Official Project by HighMark**: [HighMark.it](https://highmark.it/)
 
-For inquiries regarding redistribution or modifications, please contact via [HighMark's official website](https://shop.highmark.it/).
+For inquiries regarding redistribution or modifications, please contact via [HighMark's official website](https://highmark.it/).
 
 ---
 
